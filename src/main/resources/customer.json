@@ -1,0 +1,19 @@
+{
+  "name" : "Naresh",
+  "customerId" : 101,
+  "dataOfBirth" : 61373743200000,
+  "anualSalary" : 250.0,
+  "address" : [ {
+    "city" : "Bangalore",
+    "state" : "TX",
+    "country" : "Usa",
+    "zipcode" : 54525
+  } ],
+  "paymentMethods" : [ {
+    "cardNumber" : "25252",
+    "cardName" : "sdsd",
+    "dateFrom" : 61373743200000,
+    "dateType" : "Expiry",
+    "cardType" : "CREDITCARD"
+  } ]
+}
