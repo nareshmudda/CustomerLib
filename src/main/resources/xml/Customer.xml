@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customer xmlns="http://www.example.org/Customer">
+  <customerId>0</customerId>
+  <name>name</name>
+  <dateOfBirth>2001-12-31T12:00:00</dateOfBirth>
+  <annualSalary>0.0</annualSalary>
+  <Address>
+    <city>city</city>
+    <state>state</state>
+    <country>country</country>
+  </Address>
+  <CardType>
+    <cardNumber>cardNumber</cardNumber>
+    <cardName>cardName</cardName>
+    <dateFrom>2001-12-31T12:00:00</dateFrom>
+    <cardType>CREDITCARD</cardType>
+  </CardType>
+</customer>
